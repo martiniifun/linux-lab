@@ -1,0 +1,72 @@
+acl 2.3.2-r1 acl-2.3.2.tar.gz sha512=31aeb39958d8af5d08933dd3a89333a41025c3eb49fc461fa3c291caca51dad575ec13faeb7deba9b3c2ebf7615be7d45e2b78e50d4f83d8ec933c95931a7682 from=https://distfiles.alpinelinux.org/distfiles/v3.24/acl-2.3.2.tar.gz
+acl 2.3.2-r1 aports=main/acl@8bac74716d06c84627ab02d101fd9d2bafd0a34c
+alpine-baselayout 3.7.2-r1 protocols-6.4 sha512=3a00083bcdf5a9e884c9d07877d52311e3d99e79cbee656e236ba06e08ba0dddb7ba76494fdc9dd1a826c48e197a790a69e6bb458e9df64832d6b5e904e9fd15 from=https://distfiles.alpinelinux.org/distfiles/v3.24/protocols-6.4
+alpine-baselayout 3.7.2-r1 services-6.4 sha512=47b0f3ee73af2d259bd206a026204be0ea25531a895a0b035a904b38fe5407bc3dd2beab7f8fcb3d760587e6159702ebdb9cbc4f508942befdf7f10c10c87888 from=https://distfiles.alpinelinux.org/distfiles/v3.24/services-6.4
+alpine-baselayout 3.7.2-r1 aports=main/alpine-baselayout@60a7585bbab2fa0f762504eb617dbca90216e31f
+apk-tools 3.0.9-r0 apk-tools-v3.0.9.tar.gz sha512=933f9a3645e225a8e433951e57fce979d68a933b5cc066591f5da35c561c07ea476c0ada184fa81ab8eea1431f9b475735ad68c598072e26c0a74debf65a680f from=https://distfiles.alpinelinux.org/distfiles/v3.24/apk-tools-v3.0.9.tar.gz
+apk-tools 3.0.9-r0 aports=main/apk-tools@13685e8f2cf1c103cbba2fb9efcfcf19f4918df0
+attr 2.5.2-r2 attr-2.5.2.tar.gz sha512=7b8f210ab2233d82d282d36c10ac2f4b10e1ba9bd0f02e1f4e69b8f610cb3266bfac9796349b51b2f92fa6ef2c66c62f1a9c4ae18e202b00af3e251e3b469a24 from=https://distfiles.alpinelinux.org/distfiles/v3.24/attr-2.5.2.tar.gz
+attr 2.5.2-r2 aports=main/attr@40760f1909b662e8b9065217452a1782bad3dab1
+bash 5.3.9-r1 bash-5.3-1.tar.gz sha512=426702c8b0fb9e0c9956259973ce5b657890fd47f4f807a64febf20077bb48d0b91474ed6e843d2ef277186b46c5fffa79b808da9b48d4ec027d5e2de1b28ed8 from=https://distfiles.alpinelinux.org/distfiles/v3.24/bash-5.3-1.tar.gz
+bash 5.3.9-r1 bash53-001 sha512=66d0987f1a8951974c3a707a1980ef391a1f2a2938f0fa46adb77fcdcef6a3ca49e67182b9640ece3e59bb289e5b4a17eb870aa2a525a03e829a7be158d020a6 from=https://distfiles.alpinelinux.org/distfiles/v3.24/bash53-001
+bash 5.3.9-r1 bash53-002 sha512=05caea1c1f5a3d27f2aa351c24f324f9d544ded89db4183ae2872e0283dde62dd6166ca4e780304398935b4aa3fb4db77ecf57acd0f0e295d279ffe40b772158 from=https://distfiles.alpinelinux.org/distfiles/v3.24/bash53-002
+bash 5.3.9-r1 bash53-003 sha512=3d4004653cb3f2cba984e67b8e7ae54c19351e176b62bb415f88fdd482ae04be063dacf6303c8343ab6c8bf4f2388026c1742ac603a5cd5c330db22a4b76f4cb from=https://distfiles.alpinelinux.org/distfiles/v3.24/bash53-003
+bash 5.3.9-r1 bash53-004 sha512=d3c7c83ae0742f2a4e1bc96e8fdb3f05c8c0a7e631d3473922ac245f83194925ae443e761269fa6a519298b1123ee4008bcbcdaf9180dff0a0df7fbe5e029bbb from=https://distfiles.alpinelinux.org/distfiles/v3.24/bash53-004
+bash 5.3.9-r1 bash53-005 sha512=e81b43b084c1e9d59acd174d0792a93053780bdef61e7f4072d90b425d99a3fb7d35ef4c0ab79c4fb24bb6b38a8d9e99aad2fceac6efddf723a2cd123b32f0ea from=https://distfiles.alpinelinux.org/distfiles/v3.24/bash53-005
+bash 5.3.9-r1 bash53-006 sha512=f7e303405571635e20c26507c46f9ae0a61ea1328fa0492f2eba2095d398f799e62c1dbf0c07b440c290244f2c54186691ef4aaa2d65f2de101f9888386e2391 from=https://distfiles.alpinelinux.org/distfiles/v3.24/bash53-006
+bash 5.3.9-r1 bash53-007 sha512=5f9419b34c759b92a29f25d97e5da3f02603b3138afc11523c7bd304139db0cd02ff82a093cf78a338a7f9d88cb50a880fa6a105be83f8ca85ea8ff7d5c5d80b from=https://distfiles.alpinelinux.org/distfiles/v3.24/bash53-007
+bash 5.3.9-r1 bash53-008 sha512=094b7dc2abe6fc41c62494c6b69640fbd8c6bd93e7cde0618504bb8589fc51fec2fb1686b2729c37e430d336d93ec174233d78f23c82026aca49a240a00477c1 from=https://distfiles.alpinelinux.org/distfiles/v3.24/bash53-008
+bash 5.3.9-r1 bash53-009 sha512=07f37cee118e510ae58ea408f9d97b942017e1378532d4e3cd5a4d7405994ddadaba5d3ddb4bbda6b375760967faa51add7f46914ba919a27c14e7036f64f3be from=https://distfiles.alpinelinux.org/distfiles/v3.24/bash53-009
+bash 5.3.9-r1 aports=main/bash@1522c3193610902d8493f9790a2755c11f21f26d
+bash-completion 2.17.0-r1 bash-completion-2.17.0.tar.xz sha512=79f7a22de7df7a6a5cad2e8088ce7e013a3cd5542f3af825c04b2607c824022913dd775202ddab7964dd759e50d5bdf9be6451c70d488efaef10f7cf2f7ac73e from=https://distfiles.alpinelinux.org/distfiles/v3.24/bash-completion-2.17.0.tar.xz
+bash-completion 2.17.0-r1 aports=main/bash-completion@5fc8418c6904b56de1ce06118049cfa7f000281e
+bc 1.08.2-r1 bc-1.08.2.tar.gz sha512=0876a4c5bfc23da79479519c6a8e03ac9f59ae54077eb71ffdcc6ddaccb76c4b7595b088e89e6ad82d833c072eeff5b378178084276584813c00eedace4c6f8c from=https://distfiles.alpinelinux.org/distfiles/v3.24/bc-1.08.2.tar.gz
+bc 1.08.2-r1 aports=main/bc@a9e2a2dc46f377eb25884f7fea9834492de7f518
+busybox 1.37.0-r31 busybox-1.37.0.tar.bz2 sha512=ad8fd06f082699774f990a53d7a73b189ed404fe0a2166aff13eae4d9d8ee5c9239493befe949c98801fe7897520dbff3ed0224faa7205854ce4fa975e18467e from=https://distfiles.alpinelinux.org/distfiles/v3.24/busybox-1.37.0.tar.bz2
+busybox 1.37.0-r31 aports=main/busybox@c3ef5d10e6ef6528852c51f0564963e2f8c1be19
+coreutils 9.11-r0 coreutils-9.11.tar.xz sha512=73f4192747ab793fd29cccafeda35c499a11800830227ea4d26b00afb2c496dd69cb493005691d0f62a168beea6b55c1e28e82b6cf795e7370f9d53d13555410 from=https://distfiles.alpinelinux.org/distfiles/v3.24/coreutils-9.11.tar.xz
+coreutils 9.11-r0 aports=main/coreutils@8e261cdab4fd1bc77881cbff73b9ea962e9bd49f
+diffutils 3.12-r0 diffutils-3.12.tar.xz sha512=10b17cf1dcdfa9ca0e5db91d62c4a079ebe9fd7eafa3aaebd4eb7e6206e4d753f348496622aa281e1bd7f7fcde65ce4a886dcc4acbb59332ef980f224197b4e4 from=https://distfiles.alpinelinux.org/distfiles/v3.24/diffutils-3.12.tar.xz
+diffutils 3.12-r0 aports=main/diffutils@75d3777e6a0e17aa6789dc7aa54cfc59ed9c1924
+findutils 4.10.0-r1 findutils-4.10.0.tar.xz sha512=b8b683d21cd26c6da4f41c56e83cadbda4780f8610a2bbd4b4e34bb1f339c3209721974b03e076d5eef0331fd876d947b398197aad37c29bbcc2e0405c641b34 from=https://distfiles.alpinelinux.org/distfiles/v3.24/findutils-4.10.0.tar.xz
+findutils 4.10.0-r1 aports=main/findutils@1a4e2ce6309586205b7e4c500c7ae287be39ea31
+gawk 5.3.2-r2 gawk-5.3.2.tar.xz sha512=2268150fa35ae049a6ff3d0d0fa110db10477014c25f50e2ab4e3ee5fd60133369d2a994f59db4eb718020a0af5c4003ae7278c63e7fffa72f431ff4a1429e48 from=https://distfiles.alpinelinux.org/distfiles/v3.24/gawk-5.3.2.tar.xz
+gawk 5.3.2-r2 aports=main/gawk@730f2f5bdc97be98b2beee33f55134c622e6189c
+gettext 1.0-r0 gettext-1.0.tar.xz sha512=fa657faf5685dae7121a9b0293d3308a3910a72b90943a7a493b88cf88e95f29c5758e1573320169fe9beac6f101ef76f4165a279a7f3294155d7a773e2fa09f from=https://distfiles.alpinelinux.org/distfiles/v3.24/gettext-1.0.tar.xz
+gettext 1.0-r0 aports=main/gettext@a0b12dbf67fb047e79a1b76c6dfe6f2904d0d391
+grep 3.12-r0 grep-3.12.tar.xz sha512=c54b4db5a8b9afe098c088decd94977746305284d716666a60bac82b4edc0fae4acf828970b5b6fc7d58ecd549f638e17e6958f33a71fedcc7d7415b9228b161 from=https://distfiles.alpinelinux.org/distfiles/v3.24/grep-3.12.tar.xz
+grep 3.12-r0 aports=main/grep@4cbb86a7e5760f0f92903377ef35da450df3e1e6
+gzip 1.15-r0 gzip-1.15.tar.xz sha512=4a2ff92df8a49e1bbcbf65c3a70434660ad02f084d1b453f7dcaa8ee84f248cc4bb06f62bd8e57fea1e05ba1275c7c584ce97a58856e4ca6105f6417c8efbc3c from=https://distfiles.alpinelinux.org/distfiles/v3.24/gzip-1.15.tar.xz
+gzip 1.15-r0 aports=main/gzip@83633a158291005671d07f7f24feb56d75044585
+less 702-r0 less-702.tar.gz sha512=6cdb7e4d023aad412453b5c13b89d4025c7dc8641370f066cb5c13ee5dcd645b98f95fc0d8371c6b6446e2f24a07a3eef8d54965460a2bfb693bdf300f44b1eb from=https://distfiles.alpinelinux.org/distfiles/v3.24/less-702.tar.gz
+less 702-r0 aports=main/less@58c8a1ed3dcfa0680c6ad25e2edd6512bcb0ff93
+musl 1.2.6-r3 musl-1.2.6.tar.gz sha512=1adad96eddb3a2eb0cacb3e363b0046568925fcdd75cf8b0503f2139df1f693d64730779ca0ce8131b7624ab2d37f4247bb1d3393c523de6e30d2b1d7732555c from=https://distfiles.alpinelinux.org/distfiles/v3.24/musl-1.2.6.tar.gz
+musl 1.2.6-r3 aports=main/musl@8f79d39391b46d6dbf1800fb68b8212a21d5ee2e
+nano 9.3-r0 nano-9.3.tar.xz sha512=b4a03717da6a3b9762eba83c6357a8d37adbc5ade14bd0241cb3157718f0d15f8743ad0d8f57041ddc3d6a8b21a1dff7457c64f5a7f77582c01533057e14d20b from=https://distfiles.alpinelinux.org/distfiles/v3.24/nano-9.3.tar.xz
+nano 9.3-r0 aports=main/nano@8f82aba1fb0e7f7aacc75a166d4032ef03cba691
+pax-utils 1.3.9-r1 pax-utils-1.3.9.tar.xz sha512=96caf7f2087bedc7949db828d966835f7d691e29ef8177dee00605c10d433d4c5b5770a3d7f2e25e3c0218f5b9a6c6967669a3dea18cf138d6f0111d2bb5288b from=https://distfiles.alpinelinux.org/distfiles/v3.24/pax-utils-1.3.9.tar.xz
+pax-utils 1.3.9-r1 aports=main/pax-utils@c61801eeacb3ffcd9c2025b09e402153bb93fb39
+procps-ng 4.0.6-r0 procps-ng-4.0.6.tar.xz sha512=c499aa14b6c94eda3a455bfe0d2d3c74c79dd718bffbd20207bd0831cb87725b83a76e4ee537a49ddf112bd1248a156d35da00035cbcd4c22037a20dcb4bdc9c from=https://distfiles.alpinelinux.org/distfiles/v3.24/procps-ng-4.0.6.tar.xz
+procps-ng 4.0.6-r0 aports=main/procps-ng@99d7511b57e55bc8c6def72765dc59cedbe7e9e5
+psmisc 23.7-r0 psmisc-23.7.tar.xz sha512=8180d24355b3b0f3102044916d078b1aa9a1af3d84f1e14db79e33e505390167012adbb1a8a5f47a692f3a14aba1eb5f1f8f37f328392e8635b89966af9b2128 from=https://distfiles.alpinelinux.org/distfiles/v3.24/psmisc-23.7.tar.xz
+psmisc 23.7-r0 aports=main/psmisc@8a69d460b3977724ebeed5a607369da769719f3e
+readline 8.3.3-r1 readline-8.3.tar.gz sha512=513002753dcf5db9213dbbb61d51217245f6a40d33b1dd45238e8062dfa8eef0c890b87a5548e11db959e842724fb572c4d3d7fb433773762a63c30efe808344 from=https://distfiles.alpinelinux.org/distfiles/v3.24/readline-8.3.tar.gz
+readline 8.3.3-r1 readline83-001.patch sha512=ced50af353ed527f6ec0eac5f65261f2ed208825ec72fe2acf5f0217f34f84f33dcbf01b895325f6b33664b5a426bac99506193e2ddb6eea8c79ccad37364b89 from=https://distfiles.alpinelinux.org/distfiles/v3.24/readline83-001.patch
+readline 8.3.3-r1 readline83-002.patch sha512=e45ad6443bd4e271ec8e8ab883de561b6420aec362b0b7f0256086cb5a023d946df55994ed99c76ceb191e8a25e8059ae9b553ef1d546626d671b80af292f04d from=https://distfiles.alpinelinux.org/distfiles/v3.24/readline83-002.patch
+readline 8.3.3-r1 readline83-003.patch sha512=6b3ebffe994d0cd4d3466b15e3aee9a73613109283a4442f3bf10e28edcd1204df824c71356d66d01ac21014a806023a101fedf94526a19f6f590d9ffdc864cd from=https://distfiles.alpinelinux.org/distfiles/v3.24/readline83-003.patch
+readline 8.3.3-r1 aports=main/readline@a854c03acdac188901fb012f7acbee70a36e8041
+sed 4.9-r2 sed-4.9.tar.xz sha512=36157a4b4a2430cf421b7bd07f1675d680d9f1616be96cf6ad6ee74a9ec0fe695f8d0b1e1f0b008bbb33cc7fcde5e1c456359bbbc63f8aebdd4fedc3982cf6dc from=https://distfiles.alpinelinux.org/distfiles/v3.24/sed-4.9.tar.xz
+sed 4.9-r2 aports=main/sed@84a227baf001b6e0208e3352b294e4d7a40e93de
+tar 1.35-r5 tar-1.35.tar.xz sha512=8b84ed661e6c878fa33eb5c1808d20351e6f40551ac63f96014fb0d0b9c72d5d94d8865d39e36bcb184fd250f84778a3b271bbd8bd2ceb69eece0c3568577510 from=https://distfiles.alpinelinux.org/distfiles/v3.24/tar-1.35.tar.xz
+tar 1.35-r5 aports=main/tar@a9e2a2dc46f377eb25884f7fea9834492de7f518
+tree 2.3.2-r0 unix-tree-2.3.2.tar.gz sha512=c22dd6bd6074f521959d31c3c9adbccec5a039029ca818df8345c7572f5b29b4b7b813e9ce4336cc0d600095130a709f7cbf7f88765a7a1e6894b16701d1fcd9 from=https://distfiles.alpinelinux.org/distfiles/v3.24/unix-tree-2.3.2.tar.gz
+tree 2.3.2-r0 aports=main/tree@429bf8299b274b32b6bb940fd5b1ba171e32872a
+util-linux 2.42.3-r1 util-linux-2.42.3.tar.xz sha512=2a307943d4fbb34ac02131e10ff7260f181dd706b21e68a891d25d6eb30476a612bcc19b674bb2256283c9c716146e0d79909f37324efc9aa9d45a44e0d58988 from=https://distfiles.alpinelinux.org/distfiles/v3.24/util-linux-2.42.3.tar.xz
+util-linux 2.42.3-r1 aports=main/util-linux@d98c55af59055e6ca60fbe36e171546918709965
+which 2.23-r0 which-2.23.tar.gz sha512=738807f79e8cfc5967541a28ae7021247c04c4177279f09be2c19c069af450a7e3b19baf9079fe5569b25b4630bb400be242a123647e52c9fe54f0ad007317bf from=https://distfiles.alpinelinux.org/distfiles/v3.24/which-2.23.tar.gz
+which 2.23-r0 aports=main/which@183087ae9c6007705b52b2a502a35b444ad41b95
+xz 5.8.4-r0 xz-5.8.4.tar.gz sha512=6a0e9c3b05f9c20255c5e35c06fdcd44b9e201f4ed566d1dec052b6cfda6cdfb42f73ffd258eaad2d8b7737c66b78ae353aebd44502e24a3d89d8765d698dcae from=https://distfiles.alpinelinux.org/distfiles/v3.24/xz-5.8.4.tar.gz
+xz 5.8.4-r0 aports=main/xz@0c088d609f9fe69eedd6b4c7f4b99cdad847c20a
+linux-lts 6.18.60-r0 patch-6.18.60.patch.xz sha512=fce959c563635d4374cba148b7f1b8b64a143e5b42bd8e86afee7dfdc76b9d887afb5a032249ac16518ee95e73b3c1a459f15926a035780493c5b3b9fbd3b51b from=https://distfiles.alpinelinux.org/distfiles/v3.24/patch-6.18.60.patch.xz
+linux-lts 6.18.60-r0 linux-6.18.tar.xz sha512=88599ffdec96d150c1feb9b261ba93bb0301a9d0e1ad6bef7aeab1f5372cbfc57d8b43c7e902bd8f76921d1dbd8189663c142ea869e51d0e2b483b150ee00fe0 from=https://distfiles.alpinelinux.org/distfiles/v3.24/linux-6.18.tar.xz
+linux-lts 6.18.60-r0 aports=main/linux-lts@97a4e7b01d88cdec22ef3a5d30247628dc14d8bc

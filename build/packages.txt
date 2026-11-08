@@ -1,0 +1,1 @@
+bash coreutils grep sed gawk findutils less nano vim procps-ng psmisc diffutils tar gzip xz file tree sudo shadow util-linux-misc util-linux-login mount umount dmesg which bash-completion bc jq ncurses
